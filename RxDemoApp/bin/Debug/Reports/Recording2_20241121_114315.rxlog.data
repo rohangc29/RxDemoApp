@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="17.78s"
+		durationms="17781"
+		type="root"
+		rid="ac22e1db360a18"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="rohangowda.gc"
+		rxversion="11.1.0.0"
+		host="CELSYSBLR000317"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-11-2024 11:43:19"
+		timestampiso="2024-11-21T06:13:19"
+		endtime="21-11-2024 11:43:37"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording2">
+		<detail>
+			Recording2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.784"
+			timeRelativeToTestModuleStartTime="00:05.784"
+			timeWallClock="11:43:25"
+			time="00:05.784"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.TestDatabase' at 59;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@accessiblename='Test database']"
+				itempath="?/?/tabpage[@accessiblename='Test database']"
+				fullname="RxDemoAppRepository.RxMainFrame.TestDatabase"
+				id="643a057586b64760a218d0c7a90165d1"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.413"
+			timeRelativeToTestModuleStartTime="00:07.413"
+			timeWallClock="11:43:26"
+			time="00:07.413"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.FirstName' at 56;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@accessiblename='First name']"
+				itempath="?/?/text[@accessiblename='First name']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.FirstName"
+				id="de018ff573ea48079be2557f0e42a010"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.311"
+			timeRelativeToTestModuleStartTime="00:08.311"
+			timeWallClock="11:43:27"
+			time="00:08.311"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Rohan' with focus on 'RxMainFrame.RxTabStandard.FirstName'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@accessiblename='First name']"
+				itempath="?/?/text[@accessiblename='First name']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.FirstName"
+				id="de018ff573ea48079be2557f0e42a010"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.921"
+			timeRelativeToTestModuleStartTime="00:08.921"
+			timeWallClock="11:43:28"
+			time="00:08.921"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.LastName' at 24;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@accessiblename='Last name']"
+				itempath="?/?/text[@accessiblename='Last name']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.LastName"
+				id="22523d2b6d6e4856b8a94146a9600a90"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.762"
+			timeRelativeToTestModuleStartTime="00:09.762"
+			timeWallClock="11:43:29"
+			time="00:09.762"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '' with focus on 'RxMainFrame.RxTabStandard.LastName'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@accessiblename='Last name']"
+				itempath="?/?/text[@accessiblename='Last name']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.LastName"
+				id="22523d2b6d6e4856b8a94146a9600a90"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.247"
+			timeRelativeToTestModuleStartTime="00:10.247"
+			timeWallClock="11:43:29"
+			time="00:10.247"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'G{LShiftKey up} C' with focus on 'RxMainFrame.RxTabStandard.LastName'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@accessiblename='Last name']"
+				itempath="?/?/text[@accessiblename='Last name']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.LastName"
+				id="22523d2b6d6e4856b8a94146a9600a90"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.915"
+			timeRelativeToTestModuleStartTime="00:10.915"
+			timeWallClock="11:43:30"
+			time="00:10.915"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.Open' at 7;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/button[@accessiblename='Open']"
+				itempath="?/?/button[@accessiblename='Open']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.Open"
+				id="3d69f58e3c8e410bae3e286205367915"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.744"
+			timeRelativeToTestModuleStartTime="00:11.744"
+			timeWallClock="11:43:31"
+			time="00:11.744"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'List1000.Testing' at 116;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/list[@controlid='1000']/listitem[@text='Testing']"
+				itempath="listitem[@text='Testing']"
+				fullname="RxDemoAppRepository.List1000.Testing"
+				id="06908b58b0574b258f67c598cd6abcb1"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.245"
+			timeRelativeToTestModuleStartTime="00:12.245"
+			timeWallClock="11:43:31"
+			time="00:12.245"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.UpDownEdit' at 44;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@controlname='upDownEdit']"
+				itempath="?/?/text[@controlname='upDownEdit']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.UpDownEdit"
+				id="af654cfb64264e42bfa17b788a162553"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.112"
+			timeRelativeToTestModuleStartTime="00:13.112"
+			timeWallClock="11:43:32"
+			time="00:13.112"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}' with focus on 'RxMainFrame.RxTabStandard.UpDownEdit'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@controlname='upDownEdit']"
+				itempath="?/?/text[@controlname='upDownEdit']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.UpDownEdit"
+				id="af654cfb64264e42bfa17b788a162553"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.604"
+			timeRelativeToTestModuleStartTime="00:13.604"
+			timeWallClock="11:43:33"
+			time="00:13.604"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '23' with focus on 'RxMainFrame.RxTabStandard.UpDownEdit'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/text[@controlname='upDownEdit']"
+				itempath="?/?/text[@controlname='upDownEdit']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.UpDownEdit"
+				id="af654cfb64264e42bfa17b788a162553"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.115"
+			timeRelativeToTestModuleStartTime="00:14.115"
+			timeWallClock="11:43:33"
+			time="00:14.115"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.RdbMale' at 7;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/radiobutton[@controlname='rdbMale']"
+				itempath="?/?/radiobutton[@controlname='rdbMale']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.RdbMale"
+				id="c12b94acfbe44e4a87290bae7cea848b"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.977"
+			timeRelativeToTestModuleStartTime="00:14.977"
+			timeWallClock="11:43:34"
+			time="00:14.977"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.BtnAddPerson' at 26;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/button[@controlname='btnAddPerson']"
+				itempath="button[@controlname='btnAddPerson']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.BtnAddPerson"
+				id="41f915c86f61435f82806d7b985286d6"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.613"
+			timeRelativeToTestModuleStartTime="00:15.613"
+			timeWallClock="11:43:35"
+			time="00:15.613"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Text='Rohan G C (male, 23) Testing') on item 'RxMainFrame.RxTabStandard.RohanGCMale23Testing'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				itempath="list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.RohanGCMale23Testing"
+				id="7f918601b2fa401da63d7474b7a45d69"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.889"
+			timeRelativeToTestModuleStartTime="00:15.889"
+			timeWallClock="11:43:35"
+			time="00:15.889"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Text' of element for item 'RxDemoAppRepository.RxMainFrame.RxTabStandard.RohanGCMale23Testing' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				itempath="list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.RohanGCMale23Testing"
+				id="7f918601b2fa401da63d7474b7a45d69"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="135"
+				loglvl="Success"
+				itemindex="13">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.992"
+			timeRelativeToTestModuleStartTime="00:15.992"
+			timeWallClock="11:43:35"
+			time="00:15.992"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Text='1') on item 'RxMainFrame.RxTabStandard.LblNumberOfPersonsNumber'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/text[@controlname='lblNumberOfPersonsNumber']"
+				itempath="text[@controlname='lblNumberOfPersonsNumber']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.LblNumberOfPersonsNumber"
+				id="abfbc8bd828349ce96653bd628756c9d"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="138"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.383"
+			timeRelativeToTestModuleStartTime="00:16.383"
+			timeWallClock="11:43:35"
+			time="00:16.383"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Text' of element for item 'RxDemoAppRepository.RxMainFrame.RxTabStandard.LblNumberOfPersonsNumber' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/text[@controlname='lblNumberOfPersonsNumber']"
+				itempath="text[@controlname='lblNumberOfPersonsNumber']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.LblNumberOfPersonsNumber"
+				id="abfbc8bd828349ce96653bd628756c9d"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="139"
+				loglvl="Success"
+				itemindex="14">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.488"
+			timeRelativeToTestModuleStartTime="00:16.488"
+			timeWallClock="11:43:36"
+			time="00:16.488"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.RohanGCMale23Testing' at 129;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				itempath="list[@controlname='lstPersonList']/?/?/listitem[@accessiblename>'Rohan G C (male, 23) Test']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.RohanGCMale23Testing"
+				id="7f918601b2fa401da63d7474b7a45d69"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="142"
+				itemindex="15"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.128"
+			timeRelativeToTestModuleStartTime="00:17.128"
+			timeWallClock="11:43:36"
+			time="00:17.128"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabStandard.BtnDeletePerson' at 28;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/button[@controlname='btnDeletePerson']"
+				itempath="button[@controlname='btnDeletePerson']"
+				fullname="RxDemoAppRepository.RxMainFrame.RxTabStandard.BtnDeletePerson"
+				id="0c24e22440c742e2a64d3908896ab4b5"
+				timeout="90000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording2.cs"
+				codeline="146"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="6.85s"
+		durationms="6854"
+		type="root"
+		rid="491ea5f61a0e30b"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="rohangowda.gc"
+		rxversion="11.1.0.0"
+		host="CELSYSBLR000317"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-11-2024 12:22:19"
+		timestampiso="2024-11-21T06:52:19"
+		endtime="21-11-2024 12:22:26"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording6">
+		<detail>
+			Recording6
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.075"
+			timeRelativeToTestModuleStartTime="00:04.075"
+			timeWallClock="12:22:23"
+			time="00:04.075"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.DynamicIDs' at 47;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@accessiblename='Dynamic IDs']"
+				itempath="?/?/tabpage[@accessiblename='Dynamic IDs']"
+				fullname="RxDemoAppRepository.RxMainFrame.DynamicIDs"
+				id="f7ebd4fbb5664aaca5a87f154fcbc72e"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording6.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.668"
+			timeRelativeToTestModuleStartTime="00:05.668"
+			timeWallClock="12:22:25"
+			time="00:05.668"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.ChkShowDynamicID' at 9;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']//checkbox[@controlname='chkShowDynamicID']"
+				itempath=".//checkbox[@controlname='chkShowDynamicID']"
+				fullname="RxDemoAppRepository.RxMainFrame.ChkShowDynamicID"
+				id="07bb1cef71e245069948777fcae30047"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording6.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.450"
+			timeRelativeToTestModuleStartTime="00:06.450"
+			timeWallClock="12:22:25"
+			time="00:06.450"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Visible='True') on item 'RxMainFrame.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']//text[@controlname='txtBoxID']/text[@accessiblerole='Text']"
+				itempath=".//text[@controlname='txtBoxID']/text[@accessiblerole='Text']"
+				fullname="RxDemoAppRepository.RxMainFrame.Text"
+				id="60dc35c3c24c4020801e23d01946be57"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording6.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.748"
+			timeRelativeToTestModuleStartTime="00:06.748"
+			timeWallClock="12:22:26"
+			time="00:06.748"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Visible' of element for item 'RxDemoAppRepository.RxMainFrame.Text' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']//text[@controlname='txtBoxID']/text[@accessiblerole='Text']"
+				itempath=".//text[@controlname='txtBoxID']/text[@accessiblerole='Text']"
+				fullname="RxDemoAppRepository.RxMainFrame.Text"
+				id="60dc35c3c24c4020801e23d01946be57"
+				timeout="60000"
+				codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording6.cs"
+				codeline="91"
+				loglvl="Success"
+				itemindex="2">
+			</metainfo>
+		</item>
+	</activity>
+</report>
