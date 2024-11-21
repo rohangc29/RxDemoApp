@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="19.99s"
+		durationms="19987"
+		type="root"
+		rid="80c5a2dd67c2b83"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="1"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="1"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="1"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="rohangowda.gc"
+		rxversion="11.1.0.0"
+		host="CELSYSBLR000317"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="21-11-2024 11:59:37"
+		timestampiso="2024-11-21T06:29:37"
+		endtime="21-11-2024 11:59:57"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<activity
+			result="Success"
+			duration="16.02s"
+			durationms="16018"
+			type="test-suite"
+			rid="8d4c5d43dda3eaa"
+			totalerrorcount="0"
+			totalwarningcount="0"
+			totalsuccesstestcasecount="1"
+			totalfailedtestcasecount="0"
+			totalblockedtestcasecount="0"
+			childsuccesscount="1"
+			childfailedcount="0"
+			childblockedcount="0"
+			totalsuccesscount="1"
+			totalfailedcount="0"
+			totalblockedcount="0"
+			totalmaintenancemodecount="0"
+			testsuitename="RxDemoApp"
+			headertext="RxDemoApp"
+			runconfigname="TestRun"
+			runlabel=""
+			reportdescription="">
+			<params>
+				<param
+					name="AppProcessID">
+				</param>
+			</params>
+			<activity
+				result="Success"
+				duration="16s"
+				durationms="15999"
+				type="test-case"
+				rid="1f4501c03e018b5a"
+				totalerrorcount="0"
+				totalwarningcount="0"
+				totalsuccesstestcasecount="1"
+				totalfailedtestcasecount="0"
+				totalblockedtestcasecount="0"
+				childsuccesscount="1"
+				childfailedcount="0"
+				childblockedcount="0"
+				totalsuccesscount="1"
+				totalfailedcount="0"
+				totalblockedcount="0"
+				totalmaintenancemodecount="0"
+				testcontainername="UI_Element_Test_Area"
+				testcontainerid="5d864b97-b0a2-494e-96cc-e9f6c53dd241"
+				headertext="UI_Element_Test_Area"
+				displayName="UI_Element_Test_Area"
+				iteration="1"
+				activity-exectype="execute"
+				conditionstate="none">
+				<activity
+					result="Success"
+					duration="15.98s"
+					durationms="15980"
+					type="test-module"
+					rid="ad6141da283ef9c"
+					totalerrorcount="0"
+					totalwarningcount="0"
+					totalsuccesstestcasecount="0"
+					totalfailedtestcasecount="0"
+					totalblockedtestcasecount="0"
+					childsuccesscount="0"
+					childfailedcount="0"
+					childblockedcount="0"
+					totalsuccesscount="0"
+					totalfailedcount="0"
+					totalblockedcount="0"
+					totalmaintenancemodecount="0"
+					modulename="Recording4"
+					displayName="Recording4"
+					moduleid="9efbc8d8-2627-4b40-b069-79343ee60ee3"
+					moduletype="Recording"
+					iteration="1"
+					activity-exectype="execute"
+					testentry-activity-type="testmodule">
+					<varbindings>
+					</varbindings>
+					<item
+						timeRelativeToTestSuiteStartTime="00:00.042"
+						timeRelativeToTestModuleStartTime="00:00.010"
+						timeWallClock="11:59:41"
+						time="00:00.042"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.UIElementTestArea' at 51;14.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@accessiblename='UI-element test area']"
+							itempath="?/?/tabpage[@accessiblename='UI-element test area']"
+							fullname="RxDemoAppRepository.RxMainFrame.UIElementTestArea"
+							id="87ac8092b4af40e9b0520804e7cf54c6"
+							timeout="60000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="82"
+							itemindex="0"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:02.308"
+						timeRelativeToTestModuleStartTime="00:02.277"
+						timeWallClock="11:59:43"
+						time="00:02.308"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.RdbRedLight' at 9;6.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/radiobutton[@controlname='rdbRedLight']"
+							itempath="container[@controlname='grpBox']/?/?/radiobutton[@controlname='rdbRedLight']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.RdbRedLight"
+							id="e50b0357d097413098ef181be75de7aa"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="86"
+							itemindex="1"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:03.173"
+						timeRelativeToTestModuleStartTime="00:03.141"
+						timeWallClock="11:59:44"
+						time="00:03.173"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating Exists on item 'RxMainFrame.RxTabUIElements.PnlColourPanel'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							itempath="container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.PnlColourPanel"
+							id="7e391e1df0e34fda885ee49023cc01b8"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="90"
+							itemindex="2"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:03.580"
+						timeRelativeToTestModuleStartTime="00:03.548"
+						timeWallClock="11:59:44"
+						time="00:03.580"
+						level="Success"
+						category="Validation">
+						<message>
+							Element for item 'PnlColourPanel' does exist.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							itempath="container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.PnlColourPanel"
+							id="7e391e1df0e34fda885ee49023cc01b8"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="91"
+							loglvl="Success"
+							itemindex="2">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:03.711"
+						timeRelativeToTestModuleStartTime="00:03.679"
+						timeWallClock="11:59:44"
+						time="00:03.711"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.RdbGreenLight' at 10;10.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/radiobutton[@controlname='rdbGreenLight']"
+							itempath="container[@controlname='grpBox']/?/?/radiobutton[@controlname='rdbGreenLight']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.RdbGreenLight"
+							id="e0311cb8f915400196f2ade65dab6c77"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="94"
+							itemindex="3"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:04.473"
+						timeRelativeToTestModuleStartTime="00:04.442"
+						timeWallClock="11:59:45"
+						time="00:04.473"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating Exists on item 'RxMainFrame.RxTabUIElements.PnlColourPanel'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							itempath="container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.PnlColourPanel"
+							id="7e391e1df0e34fda885ee49023cc01b8"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="98"
+							itemindex="4"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:04.832"
+						timeRelativeToTestModuleStartTime="00:04.800"
+						timeWallClock="11:59:45"
+						time="00:04.832"
+						level="Success"
+						category="Validation">
+						<message>
+							Element for item 'PnlColourPanel' does exist.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							itempath="container[@controlname='grpBox']/?/?/container[@controlname='pnlColourPanel']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.PnlColourPanel"
+							id="7e391e1df0e34fda885ee49023cc01b8"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="99"
+							loglvl="Success"
+							itemindex="4">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:04.961"
+						timeRelativeToTestModuleStartTime="00:04.930"
+						timeWallClock="11:59:45"
+						time="00:04.961"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="102"
+							itemindex="5"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:05.724"
+						timeRelativeToTestModuleStartTime="00:05.692"
+						timeWallClock="11:59:46"
+						time="00:05.724"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="106"
+							itemindex="6"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:06.907"
+						timeRelativeToTestModuleStartTime="00:06.876"
+						timeWallClock="11:59:47"
+						time="00:06.907"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="110"
+							itemindex="7"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:08.023"
+						timeRelativeToTestModuleStartTime="00:07.992"
+						timeWallClock="11:59:49"
+						time="00:08.023"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="114"
+							itemindex="8"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:09.156"
+						timeRelativeToTestModuleStartTime="00:09.125"
+						timeWallClock="11:59:50"
+						time="00:09.156"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="118"
+							itemindex="9"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:10.274"
+						timeRelativeToTestModuleStartTime="00:10.243"
+						timeWallClock="11:59:51"
+						time="00:10.274"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="122"
+							itemindex="10"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:11.041"
+						timeRelativeToTestModuleStartTime="00:11.010"
+						timeWallClock="11:59:52"
+						time="00:11.041"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.Down' at 8;7.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							itempath="container[@controlname='grpBox']/?/?/list[@controlname='lstTestBox']/?/?/button[@text='Down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.Down"
+							id="c07fb91bd1784b17aa57b1120360743f"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="126"
+							itemindex="11"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:11.808"
+						timeRelativeToTestModuleStartTime="00:11.777"
+						timeWallClock="11:59:52"
+						time="00:11.808"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating AttributeEqual (Text='Hands-on application topics') on item 'RxMainFrame.RxTabUIElements.HandsOnApplicationTopics'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']//list[@controlname='lstTestBox']/list[@accessiblename='Image-based automation']/listitem[@accessiblename>'Hands-on application topi']"
+							itempath=".//list[@controlname='lstTestBox']/list[@accessiblename='Image-based automation']/listitem[@accessiblename>'Hands-on application topi']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.HandsOnApplicationTopics"
+							id="186320b4103f4698a96bf7a686177c20"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="130"
+							itemindex="12"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:12.351"
+						timeRelativeToTestModuleStartTime="00:12.319"
+						timeWallClock="11:59:53"
+						time="00:12.351"
+						level="Success"
+						category="Validation">
+						<message>
+							Attribute 'Text' of element for item 'RxDemoAppRepository.RxMainFrame.RxTabUIElements.HandsOnApplicationTopics' does match the specified value.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']//list[@controlname='lstTestBox']/list[@accessiblename='Image-based automation']/listitem[@accessiblename>'Hands-on application topi']"
+							itempath=".//list[@controlname='lstTestBox']/list[@accessiblename='Image-based automation']/listitem[@accessiblename>'Hands-on application topi']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.HandsOnApplicationTopics"
+							id="186320b4103f4698a96bf7a686177c20"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="131"
+							loglvl="Success"
+							itemindex="12">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:12.476"
+						timeRelativeToTestModuleStartTime="00:12.444"
+						timeWallClock="11:59:53"
+						time="00:12.476"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left DoubleClick item 'RxMainFrame.RxTabUIElements.RanorexStudioFundamentals' at 105;3.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/tree[@controlname='treTestTreeView']/?/?/treeitem[@accessiblename>'Ranorex Studio fundamenta']"
+							itempath="tree[@controlname='treTestTreeView']/?/?/treeitem[@accessiblename>'Ranorex Studio fundamenta']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.RanorexStudioFundamentals"
+							id="1a1b67cae8bb448d9149412af0961af2"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="134"
+							itemindex="13"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:13.272"
+						timeRelativeToTestModuleStartTime="00:13.240"
+						timeWallClock="11:59:54"
+						time="00:13.272"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating AttributeEqual (Text='Ranorex Recorder') on item 'RxMainFrame.RxTabUIElements.RanorexRecorder'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/tree[@controlname='treTestTreeView']//treeitem[@accessiblename='Ranorex Recorder']"
+							itempath="tree[@controlname='treTestTreeView']//treeitem[@accessiblename='Ranorex Recorder']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.RanorexRecorder"
+							id="680b7b4a860d43249b77e1224ab6884b"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="138"
+							itemindex="14"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:13.612"
+						timeRelativeToTestModuleStartTime="00:13.581"
+						timeWallClock="11:59:54"
+						time="00:13.612"
+						level="Success"
+						category="Validation">
+						<message>
+							Attribute 'Text' of element for item 'RxDemoAppRepository.RxMainFrame.RxTabUIElements.RanorexRecorder' does match the specified value.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/tree[@controlname='treTestTreeView']//treeitem[@accessiblename='Ranorex Recorder']"
+							itempath="tree[@controlname='treTestTreeView']//treeitem[@accessiblename='Ranorex Recorder']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.RanorexRecorder"
+							id="680b7b4a860d43249b77e1224ab6884b"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="139"
+							loglvl="Success"
+							itemindex="14">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:13.745"
+						timeRelativeToTestModuleStartTime="00:13.713"
+						timeWallClock="11:59:54"
+						time="00:13.745"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.LineDown' at 11;12.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/?/?/scrollbar[@controlname='vertScrollBar']/button[@accessiblename='Line down']"
+							itempath="?/?/scrollbar[@controlname='vertScrollBar']/button[@accessiblename='Line down']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.LineDown"
+							id="98770d0183c344399bedb78bda9db8f2"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="142"
+							itemindex="15"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:14.722"
+						timeRelativeToTestModuleStartTime="00:14.691"
+						timeWallClock="11:59:55"
+						time="00:14.722"
+						level="Info"
+						category="Mouse">
+						<message>
+							Mouse Left Click item 'RxMainFrame.RxTabUIElements.DepartmentRow7' at 28;6.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							itempath="table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.DepartmentRow7"
+							id="3f3bd53fdb7a4f148f10ac2c88dca0a7"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="146"
+							itemindex="16"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:15.507"
+						timeRelativeToTestModuleStartTime="00:15.475"
+						timeWallClock="11:59:56"
+						time="00:15.507"
+						level="Info"
+						category="Validation">
+						<message>
+							Validating AttributeEqual (Text='Testing') on item 'RxMainFrame.RxTabUIElements.DepartmentRow7'.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							itempath="table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.DepartmentRow7"
+							id="3f3bd53fdb7a4f148f10ac2c88dca0a7"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="150"
+							itemindex="17"
+							loglvl="Info">
+						</metainfo>
+					</item>
+					<item
+						timeRelativeToTestSuiteStartTime="00:15.881"
+						timeRelativeToTestModuleStartTime="00:15.850"
+						timeWallClock="11:59:56"
+						time="00:15.881"
+						level="Success"
+						category="Validation">
+						<message>
+							Attribute 'Text' of element for item 'RxDemoAppRepository.RxMainFrame.RxTabUIElements.DepartmentRow7' does match the specified value.
+						</message>
+						<metainfo
+							type="repoitem"
+							path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabUIElements']/table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							itempath="table[@controlname='dataGridView1']/?/?/cell[@accessiblename='Department Row 7']"
+							fullname="RxDemoAppRepository.RxMainFrame.RxTabUIElements.DepartmentRow7"
+							id="3f3bd53fdb7a4f148f10ac2c88dca0a7"
+							timeout="90000"
+							codefile="C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\Recording4.cs"
+							codeline="151"
+							loglvl="Success"
+							itemindex="17">
+						</metainfo>
+					</item>
+				</activity>
+			</activity>
+		</activity>
+	</activity>
+</report>

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recording1.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="RxDemoApp.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording1.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="RxDemoApp.Recording1.Mouse_Click_EnterYourName(RepoItemInfo textInfo)" />
+    </Array>
+  </Properties>
+</Properties>

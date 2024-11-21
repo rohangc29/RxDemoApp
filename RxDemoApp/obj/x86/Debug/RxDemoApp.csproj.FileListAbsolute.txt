@@ -1,0 +1,13 @@
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.rxtmg
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.rxtst
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.exe.config
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.xml
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.exe
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RxDemoApp.pdb
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\obj\x86\Debug\RxDemoApp.csproj.AssemblyReference.cache
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\obj\x86\Debug\RxDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\obj\x86\Debug\RxDemoApp.csproj.CopyComplete
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\obj\x86\Debug\RxDemoApp.exe
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\obj\x86\Debug\RxDemoApp.pdb
+C:\Users\rohangowda.gc\Documents\Ranorex\RanorexStudio Projects\RxDemoApp\RxDemoApp\bin\Debug\RepositoryImages\RxDemoAppRepositoryff976536.rximgres

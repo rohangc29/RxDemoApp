@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RxDemoApp</name>
+    </assembly>
+    <members>
+        <member name="T:RxDemoApp.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.CloseAUT.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording1.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording2">
+             <summary>
+            The Recording2 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording2.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording3">
+             <summary>
+            The Recording3 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording3.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording3.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording3.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording3.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording3.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording3.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording3.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording4">
+             <summary>
+            The Recording4 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording4.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording4.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording4.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording4.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording4.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording4.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording4.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording5">
+             <summary>
+            The Recording5 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording5.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording5.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording5.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording5.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording5.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording5.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording5.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.Recording6">
+             <summary>
+            The Recording6 recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.Recording6.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording6.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.Recording6.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording6.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.Recording6.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.Recording6.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.Recording6.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepository">
+            <summary>
+            The class representing the RxDemoAppRepository element repository.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the RxDemoAppRepository element repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepository.RxMainFrame">
+            <summary>
+            The RxMainFrame folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepository.List1000">
+            <summary>
+            The List1000 folder.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder">
+            <summary>
+            The RxMainFrameAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxMainFrame  folder.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7drInfoClass">
+            <summary>
+            The Img9jlc98mqhm3nc7drInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7drInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Img9jlc98mqhm3nc7drInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7drInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7drInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.TitleBar">
+            <summary>
+            The TitleBar item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.TitleBarInfo">
+            <summary>
+            The TitleBar item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.TestDatabase">
+            <summary>
+            The TestDatabase item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.TestDatabaseInfo">
+            <summary>
+            The TestDatabase item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.ImageBasedAutomation">
+            <summary>
+            The ImageBasedAutomation item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.ImageBasedAutomationInfo">
+            <summary>
+            The ImageBasedAutomation item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.UIElementTestArea">
+            <summary>
+            The UIElementTestArea item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.UIElementTestAreaInfo">
+            <summary>
+            The UIElementTestArea item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.UploadTesting">
+            <summary>
+            The UploadTesting item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.UploadTestingInfo">
+            <summary>
+            The UploadTesting item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.DynamicIDs">
+            <summary>
+            The DynamicIDs item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.DynamicIDsInfo">
+            <summary>
+            The DynamicIDs item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.ChkShowDynamicID">
+            <summary>
+            The ChkShowDynamicID item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.ChkShowDynamicIDInfo">
+            <summary>
+            The ChkShowDynamicID item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7dr">
+            <summary>
+            The Img9jlc98mqhm3nc7dr item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Img9jlc98mqhm3nc7drInfo">
+            <summary>
+            The Img9jlc98mqhm3nc7dr item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.Introduction">
+            <summary>
+            The Introduction item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.IntroductionInfo">
+            <summary>
+            The Introduction item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.RxTabIntroduction">
+            <summary>
+            The RxTabIntroduction folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.RxTabStandard">
+            <summary>
+            The RxTabStandard folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.RxTabImageBased">
+            <summary>
+            The RxTabImageBased folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.RxTabUIElements">
+            <summary>
+            The RxTabUIElements folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxMainFrameAppFolder.RxTabUpload">
+            <summary>
+            The RxTabUpload folder.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder">
+            <summary>
+            The RxTabIntroductionFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabIntroduction  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.EnterYourName">
+            <summary>
+            The EnterYourName item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.EnterYourNameInfo">
+            <summary>
+            The EnterYourName item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.BtnSubmitUserName">
+            <summary>
+            The BtnSubmitUserName item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.BtnSubmitUserNameInfo">
+            <summary>
+            The BtnSubmitUserName item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.LblWelcomeMessage">
+            <summary>
+            The LblWelcomeMessage item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabIntroductionFolder.LblWelcomeMessageInfo">
+            <summary>
+            The LblWelcomeMessage item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder">
+            <summary>
+            The RxTabStandardFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabStandard  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.Open">
+            <summary>
+            The Open item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.OpenInfo">
+            <summary>
+            The Open item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.RdbMale">
+            <summary>
+            The RdbMale item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.RdbMaleInfo">
+            <summary>
+            The RdbMale item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.FirstName">
+            <summary>
+            The FirstName item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.FirstNameInfo">
+            <summary>
+            The FirstName item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.LastName">
+            <summary>
+            The LastName item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.LastNameInfo">
+            <summary>
+            The LastName item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.UpDownEdit">
+            <summary>
+            The UpDownEdit item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.UpDownEditInfo">
+            <summary>
+            The UpDownEdit item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.BtnAddPerson">
+            <summary>
+            The BtnAddPerson item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.BtnAddPersonInfo">
+            <summary>
+            The BtnAddPerson item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.BtnDeletePerson">
+            <summary>
+            The BtnDeletePerson item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.BtnDeletePersonInfo">
+            <summary>
+            The BtnDeletePerson item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.RohanGCMale23Testing">
+            <summary>
+            The RohanGCMale23Testing item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.RohanGCMale23TestingInfo">
+            <summary>
+            The RohanGCMale23Testing item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.LblNumberOfPersonsNumber">
+            <summary>
+            The LblNumberOfPersonsNumber item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabStandardFolder.LblNumberOfPersonsNumberInfo">
+            <summary>
+            The LblNumberOfPersonsNumber item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder">
+            <summary>
+            The RxTabImageBasedFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabImageBased  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.ChkShowImage">
+            <summary>
+            The ChkShowImage item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.ChkShowImageInfo">
+            <summary>
+            The ChkShowImage item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.MonthCalendar1">
+            <summary>
+            The MonthCalendar1 item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.MonthCalendar1Info">
+            <summary>
+            The MonthCalendar1 item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.TheCat">
+            <summary>
+            The TheCat item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabImageBasedFolder.TheCatInfo">
+            <summary>
+            The TheCat item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder">
+            <summary>
+            The RxTabUIElementsFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabUIElements  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.HandsOnApplicationTopics">
+            <summary>
+            The HandsOnApplicationTopics item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.HandsOnApplicationTopicsInfo">
+            <summary>
+            The HandsOnApplicationTopics item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.LineDown">
+            <summary>
+            The LineDown item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.LineDownInfo">
+            <summary>
+            The LineDown item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.PnlColourPanel">
+            <summary>
+            The PnlColourPanel item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.PnlColourPanelInfo">
+            <summary>
+            The PnlColourPanel item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.Down">
+            <summary>
+            The Down item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.DownInfo">
+            <summary>
+            The Down item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RdbGreenLight">
+            <summary>
+            The RdbGreenLight item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RdbGreenLightInfo">
+            <summary>
+            The RdbGreenLight item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RdbRedLight">
+            <summary>
+            The RdbRedLight item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RdbRedLightInfo">
+            <summary>
+            The RdbRedLight item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.DepartmentRow7">
+            <summary>
+            The DepartmentRow7 item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.DepartmentRow7Info">
+            <summary>
+            The DepartmentRow7 item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RanorexRecorder">
+            <summary>
+            The RanorexRecorder item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RanorexRecorderInfo">
+            <summary>
+            The RanorexRecorder item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RanorexStudioFundamentals">
+            <summary>
+            The RanorexStudioFundamentals item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUIElementsFolder.RanorexStudioFundamentalsInfo">
+            <summary>
+            The RanorexStudioFundamentals item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder">
+            <summary>
+            The RxTabUploadFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabUpload  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.ResetUpload">
+            <summary>
+            The ResetUpload item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.ResetUploadInfo">
+            <summary>
+            The ResetUpload item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.RBFast">
+            <summary>
+            The RBFast item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.RBFastInfo">
+            <summary>
+            The RBFast item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.BtnStartUpload">
+            <summary>
+            The BtnStartUpload item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.BtnStartUploadInfo">
+            <summary>
+            The BtnStartUpload item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.LblFinished">
+            <summary>
+            The LblFinished item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.RxTabUploadFolder.LblFinishedInfo">
+            <summary>
+            The LblFinished item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder">
+            <summary>
+            The List1000AppFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new List1000  folder.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder.Testing">
+            <summary>
+            The Testing item.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.RxDemoAppRepositoryFolders.List1000AppFolder.TestingInfo">
+            <summary>
+            The Testing item info.
+            </summary>
+        </member>
+        <member name="T:RxDemoApp.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:RxDemoApp.StartAUT.repo">
+            <summary>
+            Holds an instance of the RxDemoAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:RxDemoApp.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDemoApp.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDemoApp.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDemoApp.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>
